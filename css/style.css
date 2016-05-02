@@ -800,12 +800,14 @@ footer {
 }
 
 footer p {
-	color: #f8f8f8;
+	color: #404040;
 	font-size: 14px;
 }
-
+#footer_link {
+	color: #404040;
+}
 footer a.totop {
-	color: #fff;
+	color: #404040;
 	margin-bottom: 30px;
 }
 footer a.totop:focus {
